@@ -14,6 +14,7 @@ arrays_1_1.npz
 arrays_model_2_b-hard-squared-dist_50classes_ep22_080323.npz
 cls_to_idx_dict_50classes.pkl
 cls_to_idx_dict_51classes.pkl
+custom_config.yaml
 emb_AlexNet_50classes_44ep_310123.gif
 emb_AlexNet_50classes_44ep_310123.mp4
 estado_búsqueda_inaturalist_chile.txt
